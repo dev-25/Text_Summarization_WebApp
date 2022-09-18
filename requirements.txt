@@ -1,6 +1,5 @@
 spacy
 dash
 dash_bootstrap_components
-string
 heapq
 dash.dependencies
