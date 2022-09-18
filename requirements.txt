@@ -1,4 +1,3 @@
 spacy
 dash
 dash_bootstrap_components
-dash.dependencies
